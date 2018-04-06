@@ -86,6 +86,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |Ozan Mirza| [GitHub](http://github.com/ozanmirza1/PaintPad-2.0) || UIKit | Submitted |
 |[Qingyang Hu](https://github.com/mmlmml1)| | |SceneKit, SpriteKit, ARKit, UIKit, PlaygroundBooks| Submitted|
 |[Raffael Kaehn](https://github.com/vortycon)|[GitHub](https://github.com/vortycon/WWDC18)| [YouTube](https://youtu.be/KFWYJvmqPio) | UIKit, SceneKit | Submitted |
+|[Raffaele Miraglia](https://github.com/raffos92) | [GitHub](https://github.com/raffos92/wwdc18.git) | [YouTube](https://www.youtube.com/watch?v=rBGEjfy1HBg) | Playground Books, SpriteKit , CGMutablePath  | Submitted |
 |[Răzvan Geangu](https://github.com/razvangeangu)|[GitHub](https://github.com/razvangeangu/WWDC18-SpaceWord)| | SpriteKit, UIKit, AVFoundation | Submitted|
 |[Renata Faria](https://github.com/xReee)|[GitHub](https://github.com/xReee/wwdc2018)|[YouTube](https://www.youtube.com/watch?v=YHBSvNmBFBY&t)| UIKit, AVFoundation, Accessibility, NotificationCenter, UIGestures | Submitted|
 |[Ricardo V. Del Frari](https://github.com/ricardovdf)|[GitHub](https://github.com/ricardovdf/wwdc2018)||SpriteKit| Submitted|
